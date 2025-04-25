@@ -1,4 +1,4 @@
-database_galaxy_info:
+galaxy_info:
   role_name: database-server
   author: BartHeijs
   description: MySQL installation role
